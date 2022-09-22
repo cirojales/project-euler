@@ -1,2 +1,3 @@
 # project-euler
-Minhas soluções para alguns problemas do Project Euler. 
+
+Soluções de problemas do Project Euler.
